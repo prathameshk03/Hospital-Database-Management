@@ -1,0 +1,6 @@
+[{"Bill_No":11111, "Dr_charges":20000, "Bill_Genaration_Time":"15:26:57", "Admitted_Date":"2021-02-18", "Discharge_Date":"2021-02-22", "P_Id":2222},
+ {"Bill_No":22222, "Dr_charges":40000, "Bill_Genaration_Time":"03:26:47", "Admitted_Date":"2021-03-08", "Discharge_Date":"2021-03-16", "P_Id":1111},
+ {"Bill_No":33333, "Dr_charges":30001, "Bill_Genaration_Time":"07:23:15", "Admitted_Date":"2021-03-02", "Discharge_Date":"2021-03-04", "P_Id":8888},
+ {"Bill_No":44444, "Dr_charges":25301, "Bill_Genaration_Time":"12:13:35", "Admitted_Date":"2021-03-02", "Discharge_Date":"2021-03-04", "P_Id":5555},
+ {"Bill_No":55555, "Dr_charges":50301, "Bill_Genaration_Time":"23:56:17", "Admitted_Date":"2021-03-02", "Discharge_Date":"2021-03-09", "P_Id":3333},
+ {"Bill_No":66666, "Dr_charges":150301, "Bill_Genaration_Time":"01:32:41", "Admitted_Date":"2021-03-15", "Discharge_Date":"2021-04-15", "P_Id":9999}]

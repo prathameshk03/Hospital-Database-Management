@@ -1,0 +1,6 @@
+[{"Room_Id":111, "Room_Type":"ICU"},
+ {"Room_Id":222, "Room_Type":"ICU"},
+ {"Room_Id":333, "Room_Type":"Covid"},
+ {"Room_Id":444, "Room_Type":"Covid"},
+ {"Room_Id":555, "Room_Type":"Private"},
+ {"Room_Id":666, "Room_Type":"Private"}]
